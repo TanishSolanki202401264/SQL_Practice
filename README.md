@@ -246,3 +246,5 @@ CLIENT_URL=http://localhost:5173
 npm run build
 ```
 The build process compiles the React code and statically drops the `sql-wasm.wasm` binary into the `dist/assets` folder. Ensure your hosting provider (Vercel, Netlify) serves `.wasm` files with the correct `application/wasm` MIME type.
+#   D a t a d e s k  
+ 
